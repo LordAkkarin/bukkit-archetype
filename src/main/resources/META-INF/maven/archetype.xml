@@ -1,0 +1,13 @@
+<archetype>
+	<id>bukkit-archetype</id>
+
+	<!-- Plugin Sources -->
+	<sources>
+		<source>src/main/java/Plugin.java</source>
+	</sources>
+
+	<!-- Plugin Resources -->
+	<resources>
+		<resource>src/main/resources/plugin.yml</resource>
+	</resources>
+</archetype>
