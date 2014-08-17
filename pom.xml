@@ -9,4 +9,17 @@
 	<!-- Artifact Metadata -->
 	<name>Bukkit Archetype</name>
 	<inceptionYear>2014</inceptionYear>
+	
+	<!-- Distribution -->
+	<distributionManagement>
+		<repository>
+			<id>basket</id>
+			<url>http://basket.cindyscats.com/content/repositories/releases/</url>
+		</repository>
+
+		<snapshotRepository>
+			<id>basket</id>
+			<url>http://basket.cindyscats.com/content/repositories/snapshots/</url>
+		</snapshotRepository>
+	</distributionManagement>
 </project>
